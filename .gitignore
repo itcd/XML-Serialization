@@ -33,6 +33,40 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-# Mercurial files #
+# Mercurial #
 .hgignore
 .hg
+
+# Visual Studio #
+Debug/
+Release/
+ipch/
+bin/
+obj/
+*.ncb
+*.suo
+*.user
+*.ipch
+*.sdf
+*.opensdf
+*.pdb
+
+# Microsoft Office #
+~/
+~*.*
+
+# LaTeX #
+*.aux
+*.log
+*.gz
+*.dvi
+*.bbl
+*.blg
+*.ps
+
+# Java #
+build/
+*.class
+*.jar
+*.war
+*.ear
